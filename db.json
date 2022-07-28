@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "firstname": "Rishu",
+      "lastname": "Rai",
+      "email": "rishu@gmail.com",
+      "mobile": "8318982128",
+      "gender": "m",
+      "pwd": "12345678",
+      "id": 2
+    },
+    {
+      "firstname": "xyz",
+      "lastname": "pqr",
+      "email": "xyz@gmail.com",
+      "mobile": "8318982128",
+      "gender": "m",
+      "pwd": "123456789",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
